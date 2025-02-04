@@ -1,0 +1,6 @@
+[submodule "LightRAG"]
+	path = LightRAG
+	url = https://github.com/JiaruiFeng/LightRAG.git
+[submodule "graphrag"]
+	path = graphrag
+	url = https://github.com/xtxxxxxtx/graphrag.git
